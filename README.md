@@ -41,7 +41,7 @@ http://localhost:3000
 
 #### start the application with Docker Compose
 
-Step 1: start mongodb and mongo-express
+Step 1: start mongodb and mongo-express, my-app
 
 docker-compose up
     
