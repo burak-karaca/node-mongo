@@ -43,7 +43,7 @@ http://localhost:3000
 
 Step 1: start mongodb and mongo-express
 
-docker-compose -f docker-compose.yaml up
+docker-compose up
     
 Note: You can access the mongo-express under localhost:8080 from your browser_
     
