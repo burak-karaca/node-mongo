@@ -4,7 +4,7 @@ let fs = require('fs');
 let MongoClient = require('mongodb').MongoClient;
 let bodyParser = require('body-parser');
 let app = express();
-console.log("Nana is a nice teacher!")
+console.log("Nana is a great teacher!")
 app.use(bodyParser.urlencoded({
   extended: true
 }));
